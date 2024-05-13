@@ -1,3 +1,3 @@
 # testRepo
 
-This is a tst Repository
+This is a test Repository
